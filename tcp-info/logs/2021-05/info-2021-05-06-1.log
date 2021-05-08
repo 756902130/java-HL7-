@@ -1,0 +1,31 @@
+[2021-05-06 17:20:14] INFO  55 logStarting - Starting TcpInfoApplication using Java 1.8.0_241 on LAPTOP-LEQKJD85 with PID 308 (D:\NBSoft\Client\BS\智能药物管理3.0\数据导入\宁波市一\tcp-info\target\classes started by admin in D:\NBSoft\Client\BS\智能药物管理3.0\数据导入\宁波市一\tcp-info)
+[2021-05-06 17:20:14] INFO  675 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2021-05-06 17:20:15] INFO  108 initialize - Tomcat initialized with port(s): 8888 (http)
+[2021-05-06 17:20:15] INFO  173 log - Initializing ProtocolHandler ["http-nio-8888"]
+[2021-05-06 17:20:15] INFO  173 log - Starting service [Tomcat]
+[2021-05-06 17:20:15] INFO  173 log - Starting Servlet engine: [Apache Tomcat/9.0.45]
+[2021-05-06 17:20:15] INFO  173 log - Initializing Spring embedded WebApplicationContext
+[2021-05-06 17:20:15] INFO  289 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1081 ms
+[2021-05-06 17:20:18] INFO  40 start - 服务器启动成功,端口: 10066
+[2021-05-06 17:20:29] INFO  24 channelActive - 客户端已连接，IP为/127.0.0.1:57523
+[2021-05-06 17:20:29] INFO  37 channelRead - 服务器收到消息: 服务器，你好！！！
+[2021-05-06 17:20:46] INFO  24 channelActive - 客户端已连接，IP为/127.0.0.1:57573
+[2021-05-06 17:20:46] INFO  37 channelRead - 服务器收到消息: 服务器，你好！！！
+[2021-05-06 17:21:48] INFO  24 channelActive - 客户端已连接，IP为/127.0.0.1:57643
+[2021-05-06 17:21:48] INFO  37 channelRead - 服务器收到消息: 服务器，你好！！！
+[2021-05-06 18:22:09] INFO  55 logStarting - Starting TcpInfoApplicationTests using Java 1.8.0_241 on LAPTOP-LEQKJD85 with PID 10988 (started by admin in D:\NBSoft\Client\BS\����ҩ�����3.0\���ݵ���\������һ\tcp-info)
+[2021-05-06 18:22:09] INFO  675 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2021-05-06 18:22:22] INFO  136 logMessage - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[2021-05-06 20:21:54] INFO  55 logStarting - Starting TcpInfoApplication using Java 1.8.0_241 on LAPTOP-LEQKJD85 with PID 5528 (D:\NBSoft\Client\BS\智能药物管理3.0\数据导入\宁波市一\tcp-info\target\classes started by admin in D:\NBSoft\Client\BS\智能药物管理3.0\数据导入\宁波市一\tcp-info)
+[2021-05-06 20:21:54] INFO  675 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2021-05-06 20:21:56] INFO  108 initialize - Tomcat initialized with port(s): 8888 (http)
+[2021-05-06 20:21:56] INFO  173 log - Initializing ProtocolHandler ["http-nio-8888"]
+[2021-05-06 20:21:56] INFO  173 log - Starting service [Tomcat]
+[2021-05-06 20:21:56] INFO  173 log - Starting Servlet engine: [Apache Tomcat/9.0.45]
+[2021-05-06 20:21:56] INFO  173 log - Initializing Spring embedded WebApplicationContext
+[2021-05-06 20:21:56] INFO  289 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1683 ms
+[2021-05-06 20:22:00] INFO  40 start - 服务器启动成功,端口: 10066
+[2021-05-06 20:22:01] INFO  24 channelActive - 客户端已连接，IP为/127.0.0.1:56170
+[2021-05-06 20:22:01] INFO  37 channelRead - 服务器收到消息: 服务器，你好！！！

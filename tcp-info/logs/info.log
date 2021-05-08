@@ -1,0 +1,64 @@
+[2021-05-07 17:37:37] INFO  55 logStarting - Starting TcpInfoApplication using Java 1.8.0_241 on LAPTOP-LEQKJD85 with PID 18608 (D:\NBSoft\Client\BS\智能药物管理3.0\数据导入\宁波市一\tcp-info\target\classes started by admin in D:\NBSoft\Client\BS\智能药物管理3.0\数据导入\宁波市一\tcp-info)
+[2021-05-07 17:37:37] INFO  675 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2021-05-07 17:37:38] INFO  108 initialize - Tomcat initialized with port(s): 8888 (http)
+[2021-05-07 17:37:38] INFO  173 log - Initializing ProtocolHandler ["http-nio-8888"]
+[2021-05-07 17:37:38] INFO  173 log - Starting service [Tomcat]
+[2021-05-07 17:37:38] INFO  173 log - Starting Servlet engine: [Apache Tomcat/9.0.45]
+[2021-05-07 17:37:38] INFO  173 log - Initializing Spring embedded WebApplicationContext
+[2021-05-07 17:37:38] INFO  289 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1492 ms
+[2021-05-07 17:37:42] INFO  40 start - 服务器启动成功,端口: 10066
+[2021-05-07 17:38:12] INFO  25 channelActive - 客户端已连接，IP为/127.0.0.1:50891
+[2021-05-07 17:38:12] INFO  38 channelRead - 服务器收到消息: MSH|^~\&|HIS|MediInfo|MediII|MediInfo|20150119115703||SRM^S01^SRM_S01|dfb2af425dfb4f3ab146a4508c229db1|P|2.4
+ARQ|1000152209||||20005^全麻|1|Surgery^手术|2^择期手术|||20150120084444^20150119115022|0|0||292|||10107|292||10035
+NTE|||~膀胱肿瘤等离子电切
+PID||661508|661508~661508~~~|0|ZhouShouSheng^周寿生||19410630000000|M|||新安江长运有限公司^新安江长运有限公司<01190>||^^^^^^13858161775|^^^^^^13858161775||O^其他||330182D156000005001AA6B6AB2CC382|330126194106303119|||||||||||||0
+PV1|1|I|A31100^^311040^10107&泌尿外科||||293^^孙树文||||||||||44^^吴建民|01|10030754||XJ01||||20150119111732||||0|||||||||||||10107||20150119111148||||||1|V|123
+OBX|1|NM|OB01^BODYHEIGHT||70||||||F
+OBX|2|NM|OB02^BODYWEIGHT||170||||||FDG1|1|132572||膀胱肿瘤||F
+RGS|1
+AIS|0||4845^经尿道膀胱癌电切术
+AIP|1||292|主刀医生
+AIP|2|||洗手护士
+AIP|3|||洗手护士
+AIP|4|||巡回护士
+AIP|5|||巡回护士
+AIP|6|||巡回护士
+AIP|7|||助理医生
+AIP|8|||助理医生
+AIP|9|||助理医生
+AIP|10|||体外循环师
+AIP|11|||麻醉师
+AIP|12|||麻醉师
+AIP|13|||麻醉师
+[2021-05-07 17:39:21] INFO  55 logStarting - Starting TcpInfoApplication using Java 1.8.0_241 on LAPTOP-LEQKJD85 with PID 19180 (D:\NBSoft\Client\BS\智能药物管理3.0\数据导入\宁波市一\tcp-info\target\classes started by admin in D:\NBSoft\Client\BS\智能药物管理3.0\数据导入\宁波市一\tcp-info)
+[2021-05-07 17:39:21] INFO  675 logStartupProfileInfo - No active profile set, falling back to default profiles: default
+[2021-05-07 17:39:22] INFO  108 initialize - Tomcat initialized with port(s): 8888 (http)
+[2021-05-07 17:39:22] INFO  173 log - Initializing ProtocolHandler ["http-nio-8888"]
+[2021-05-07 17:39:22] INFO  173 log - Starting service [Tomcat]
+[2021-05-07 17:39:22] INFO  173 log - Starting Servlet engine: [Apache Tomcat/9.0.45]
+[2021-05-07 17:39:22] INFO  173 log - Initializing Spring embedded WebApplicationContext
+[2021-05-07 17:39:22] INFO  289 prepareWebApplicationContext - Root WebApplicationContext: initialization completed in 1162 ms
+[2021-05-07 17:39:25] INFO  40 start - 服务器启动成功,端口: 10066
+[2021-05-07 17:39:34] INFO  25 channelActive - 客户端已连接，IP为/127.0.0.1:51388
+[2021-05-07 17:39:34] INFO  38 channelRead - 服务器收到消息: MSH|^~\&|HIS|MediInfo|MediII|MediInfo|20150119115703||SRM^S01^SRM_S01|dfb2af425dfb4f3ab146a4508c229db1|P|2.4
+ARQ|1000152209||||20005^全麻|1|Surgery^手术|2^择期手术|||20150120084444^20150119115022|0|0||292|||10107|292||10035
+NTE|||~膀胱肿瘤等离子电切
+PID||661508|661508~661508~~~|0|ZhouShouSheng^周寿生||19410630000000|M|||新安江长运有限公司^新安江长运有限公司<01190>||^^^^^^13858161775|^^^^^^13858161775||O^其他||330182D156000005001AA6B6AB2CC382|330126194106303119|||||||||||||0
+PV1|1|I|A31100^^311040^10107&泌尿外科||||293^^孙树文||||||||||44^^吴建民|01|10030754||XJ01||||20150119111732||||0|||||||||||||10107||20150119111148||||||1|V|123
+OBX|1|NM|OB01^BODYHEIGHT||70||||||F
+OBX|2|NM|OB02^BODYWEIGHT||170||||||FDG1|1|132572||膀胱肿瘤||F
+RGS|1
+AIS|0||4845^经尿道膀胱癌电切术
+AIP|1||292|主刀医生
+AIP|2|||洗手护士
+AIP|3|||洗手护士
+AIP|4|||巡回护士
+AIP|5|||巡回护士
+AIP|6|||巡回护士
+AIP|7|||助理医生
+AIP|8|||助理医生
+AIP|9|||助理医生
+AIP|10|||体外循环师
+AIP|11|||麻醉师
+AIP|12|||麻醉师
+AIP|13|||麻醉师
